@@ -1,0 +1,5 @@
+Albums:
+https://jsonplaceholder.typicode.com/albums
+
+Photos:
+https://jsonplaceholder.typicode.com/photos?albumId=${albumId}

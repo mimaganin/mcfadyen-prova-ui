@@ -1,0 +1,3 @@
+<div class="album">
+    <p>{{title}}</p>
+</div>

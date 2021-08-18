@@ -1,0 +1,4 @@
+<div class="photo">
+    <img src="{{thumbnailUrl}}" alt="" />
+    <p>{{title}}</p>
+</div>
